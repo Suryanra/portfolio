@@ -135,7 +135,7 @@ body{
       /* border:5px solid black; */
       display: flex;
       flex-direction: row;
-      padding:40px;
+      padding:20px;
       /* padding-top:110px; */
       flex-wrap: nowrap;
       gap: 30px;
